@@ -4,3 +4,5 @@ cd "path" Path should be in double quotes. change directory to the folder in whi
 
 git init  to initialise git
 
+This is added to test push
+
