@@ -1,3 +1,6 @@
 ls		to list all the files and folders
 
 cd "path" Path should be in double quotes. change directory to the folder in which your code is available
+
+git init  to initialise git
+
